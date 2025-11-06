@@ -39,6 +39,8 @@
 
 ---
 
+## 🚀 Installation
+
 Clone the repo
 git clone https://github.com/Ayush-Raj189/creatify-ai-studio.git
 
@@ -80,5 +82,5 @@ Contributions are welcome!
 `#AI` `#SaaS` `#React` `#Express` `#ImageProcessing` `#OpenAI` `#Clerk` `#WebDev`
 
 ---
-## 🚀 Installation
+
 
