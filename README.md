@@ -10,9 +10,6 @@
 
 [Live Demo](https://your-demo-link.com)
 
-![Creatify AI Studio Screenshot](<img width="2818" height="1476" alt="image" src="https://github.com/user-attachments/assets/2125997d-c10e-4799-8b00-91da9f1fc567" />
-)
-
 ---
 
 ## 📦 Key Features
